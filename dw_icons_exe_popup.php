@@ -90,9 +90,9 @@ header('X-UA-Compatible: IE=edge,chrome=1');
     button.active { border-style: inset; }
     <?php endif; ?>
   </style>
-<!------------------------------------------------------------------------------
+<!-- ----------------------------------------------------------------------------
 // FIX #2: replace jQuery with vanilla javascript
-  ----------------------------------------------------------------------------->
+  --------------------------------------------------------------------------- -->
 <script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function() {
 
